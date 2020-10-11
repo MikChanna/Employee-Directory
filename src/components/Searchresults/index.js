@@ -1,18 +1,19 @@
 import React, {Component} from "react";
-import userData from "./src/userData";
-import UserRow from "./components/UserRow";
+import users from "../../../src/user.json";
+import Userrow from "../Userrow";
 
 class SearchResults extends Component {
   state = {
-    userData
+    users
   }
 
 
  render() {
   return (
     <div>
-    {this.state.userData.map(user => (
-      <UserRow
+    {this.state.users.map(user => (
+      <Userrow
+      picture = {user.picture.large}
       firstName = {user.name.first}
       lastName = {user.name.last}
       country = {user.location.country}

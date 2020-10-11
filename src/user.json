@@ -238,53 +238,7 @@
                         },
                         "nat": "NZ"
                         },
-                        {
-                            "gender": "female",
-                            "name": {
-                            "title": "Ms",
-                            "first": "مرسانا",
-                            "last": "کامروا"
-                            },
-                            "location": {
-                            "street": {
-                            "number": 5152,
-                            "name": "میدان فلسطین"
-                            },
-                            "city": "بجنورد",
-                            "state": "زنجان",
-                            "country": "Iran",
-                            "postcode": 35319,
-                            "coordinates": {
-                            "latitude": "32.3139",
-                            "longitude": "112.7564"
-                            },
-                            "timezone": {
-                            "offset": "-12:00",
-                            "description": "Eniwetok, Kwajalein"
-                            }
-                            },
-                            "email": "mrsn.khmrw@example.com",
-                            "dob": {
-                            "date": "1956-06-11T23:58:20.063Z",
-                            "age": 64
-                            },
-                            "registered": {
-                            "date": "2016-05-17T03:02:45.250Z",
-                            "age": 4
-                            },
-                            "phone": "053-67320100",
-                            "cell": "0992-111-4618",
-                            "id": {
-                            "name": "",
-                            "value": null
-                            },
-                            "picture": {
-                            "large": "https://randomuser.me/api/portraits/women/50.jpg",
-                            "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
-                            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
-                            },
-                            "nat": "IR"
-                            },
+                        
                             {
                                 "gender": "female",
                                 "name": {
@@ -331,7 +285,150 @@
                                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
                                 },
                                 "nat": "AU"
-                                }
+                                },
+                                {
+                                    "gender": "male",
+                                    "name": {
+                                    "title": "Monsieur",
+                                    "first": "Valon",
+                                    "last": "Garnier"
+                                    },
+                                    "location": {
+                                    "street": {
+                                    "number": 9271,
+                                    "name": "Rue des Écoles"
+                                    },
+                                    "city": "Oppligen",
+                                    "state": "St. Gallen",
+                                    "country": "Switzerland",
+                                    "postcode": 5514,
+                                    "coordinates": {
+                                    "latitude": "-55.3542",
+                                    "longitude": "-139.9286"
+                                    },
+                                    "timezone": {
+                                    "offset": "-1:00",
+                                    "description": "Azores, Cape Verde Islands"
+                                    }
+                                    },
+                                    "email": "valon.garnier@example.com",
+                                    "dob": {
+                                    "date": "1954-09-09T20:16:26.554Z",
+                                    "age": 66
+                                    },
+                                    "registered": {
+                                    "date": "2018-03-24T06:00:26.506Z",
+                                    "age": 2
+                                    },
+                                    "phone": "076 138 20 60",
+                                    "cell": "079 893 11 36",
+                                    "id": {
+                                    "name": "AVS",
+                                    "value": "756.0409.7540.03"
+                                    },
+                                    "picture": {
+                                    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+                                    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+                                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+                                    },
+                                    "nat": "CH"
+                                    },
+                                    {
+                                        "gender": "male",
+                                        "name": {
+                                        "title": "Mr",
+                                        "first": "Nelson",
+                                        "last": "Collins"
+                                        },
+                                        "location": {
+                                        "street": {
+                                        "number": 704,
+                                        "name": "Paddock Way"
+                                        },
+                                        "city": "Olathe",
+                                        "state": "Maryland",
+                                        "country": "United States",
+                                        "postcode": 32782,
+                                        "coordinates": {
+                                        "latitude": "85.8624",
+                                        "longitude": "-153.7956"
+                                        },
+                                        "timezone": {
+                                        "offset": "+5:00",
+                                        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                                        }
+                                        },
+                                        "email": "nelson.collins@example.com",
+                                        "dob": {
+                                        "date": "1976-02-11T19:10:02.971Z",
+                                        "age": 44
+                                        },
+                                        "registered": {
+                                        "date": "2010-07-07T18:12:13.641Z",
+                                        "age": 10
+                                        },
+                                        "phone": "(623)-223-9016",
+                                        "cell": "(680)-499-2722",
+                                        "id": {
+                                        "name": "SSN",
+                                        "value": "547-17-3746"
+                                        },
+                                        "picture": {
+                                        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+                                        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+                                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+                                        },
+                                        "nat": "US"
+                                        },
+                                        {
+                                            "gender": "female",
+                                            "name": {
+                                            "title": "Mademoiselle",
+                                            "first": "Laetitia",
+                                            "last": "Gauthier"
+                                            },
+                                            "location": {
+                                            "street": {
+                                            "number": 917,
+                                            "name": "Rue Principale"
+                                            },
+                                            "city": "Steinen",
+                                            "state": "Schaffhausen",
+                                            "country": "Switzerland",
+                                            "postcode": 4385,
+                                            "coordinates": {
+                                            "latitude": "-49.6252",
+                                            "longitude": "51.9754"
+                                            },
+                                            "timezone": {
+                                            "offset": "+1:00",
+                                            "description": "Brussels, Copenhagen, Madrid, Paris"
+                                            }
+                                            },
+                                            "email": "laetitia.gauthier@example.com",
+                                            "dob": {
+                                            "date": "1954-08-05T10:48:00.559Z",
+                                            "age": 66
+                                            },
+                                            "registered": {
+                                            "date": "2007-04-01T01:34:43.951Z",
+                                            "age": 13
+                                            },
+                                            "phone": "079 034 66 68",
+                                            "cell": "079 492 61 40",
+                                            "id": {
+                                            "name": "AVS",
+                                            "value": "756.0136.5930.14"
+                                            },
+                                            "picture": {
+                                            "large": "https://randomuser.me/api/portraits/women/46.jpg",
+                                            "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+                                            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+                                            },
+                                            "nat": "CH"
+                                            }
+
+
 
 
 

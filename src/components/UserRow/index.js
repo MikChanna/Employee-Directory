@@ -1,32 +1,32 @@
 import React from "react";
 
-function UserRow(props) {
+function Userrow(props) {
 
 return <div className= "row">
     <div className = "col">
-        <img alt = {props.name.first + props.name.last} src = {props.picture.thumbnail} />
+        <img alt = {props.firstName + props.lastName} src = {props.picture} />
     </div>
     <div className = "col">
-        First Name: {props.name.first }
-    </div>
-
-    <div className = "col">
-        Last Name: {props.name.last}
+        First Name: {props.firstName }
     </div>
 
     <div className = "col">
-        Country: {props.location.country}
+        Last Name: {props.lastName}
     </div>
 
     <div className = "col">
-        Email: {props.name.last}
+        Country: {props.country}
     </div>
 
     <div className = "col">
-        Birthday: {props.dob.date}
+        Email: {props.email}
+    </div>
+
+    <div className = "col">
+        Birthday: {props.birthday}
     </div>
 </div>
 
 }
 
-export default UserRow;
+export default Userrow;
