@@ -4,7 +4,7 @@ import React from "react";
 import Jumbotron from "../components/Jumbotron";
 import Searchbar from "../components/Searchbar";
 // import Row from "../components/Row";
-// import Searchresults from "../components/Searchresults";
+import Searchresults from "../components/Searchresults";
 import Footer from "../components/Footer";
 
 function Main() {
@@ -12,6 +12,7 @@ function Main() {
   <div>
       <Jumbotron />
         <Searchbar />
+        <Searchresults/>
         <Footer />
   </div>
   

@@ -1,13 +1,29 @@
-import React from "react";
+import React, {Component} from "react";
+import userData from "./src/userData";
+import UserRow from "./components/UserRow";
 
-function SearchResults(props) {
+class SearchResults extends Component {
+  state = {
+    userData
+  }
+
+
+ render() {
   return (
-    <ul className="list-group search-results">
-      {props.results.map((result) => (
-        <li key={result} className="list-group-item"></li>
-      ))}
-    </ul>
+    <div>
+    {this.state.userData.map(user => (
+      <UserRow
+      firstName = {user.name.first}
+      lastName = {user.name.last}
+      country = {user.location.country}
+      email = {user.email}
+      birthday = {user.dob.date}
+      />
+    ))}
+    </div>
+   
   );
+}
 }
 
 export default SearchResults;

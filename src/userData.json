@@ -1,0 +1,340 @@
+[
+    {
+        "gender": "female",
+        "name": {
+        "title": "Mrs",
+        "first": "Nicky",
+        "last": "Wallace"
+        },
+        "location": {
+        "street": {
+        "number": 7756,
+        "name": "George Street"
+        },
+        "city": "Swansea",
+        "state": "Merseyside",
+        "country": "United Kingdom",
+        "postcode": "MS8R 7LT",
+        "coordinates": {
+        "latitude": "14.4010",
+        "longitude": "156.7741"
+        },
+        "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+        }
+        },
+        "email": "nicky.wallace@example.com",
+        "dob": {
+        "date": "1946-07-21T13:44:05.361Z",
+        "age": 74
+        },
+        "registered": {
+        "date": "2006-01-19T02:20:35.858Z",
+        "age": 14
+        },
+        "phone": "017687 20829",
+        "cell": "0747-822-604",
+        "id": {
+        "name": "NINO",
+        "value": "AB 35 62 08 C"
+        },
+        "picture": {
+        "large": "https://randomuser.me/api/portraits/women/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+        },
+        "nat": "GB"
+        },
+
+        {
+            "gender": "female",
+            "name": {
+            "title": "Mrs",
+            "first": "Violet",
+            "last": "Holland"
+            },
+            "location": {
+            "street": {
+            "number": 5096,
+            "name": "Hogan St"
+            },
+            "city": "Irvine",
+            "state": "Tennessee",
+            "country": "United States",
+            "postcode": 92739,
+            "coordinates": {
+            "latitude": "82.2381",
+            "longitude": "128.5213"
+            },
+            "timezone": {
+            "offset": "+4:30",
+            "description": "Kabul"
+            }
+            },
+            "email": "violet.holland@example.com",
+            "dob": {
+            "date": "1963-02-07T18:08:58.412Z",
+            "age": 57
+            },
+            "registered": {
+            "date": "2018-07-19T19:37:05.241Z",
+            "age": 2
+            },
+            "phone": "(831)-374-1873",
+            "cell": "(320)-668-6250",
+            "id": {
+            "name": "SSN",
+            "value": "976-80-2847"
+            },
+            "picture": {
+            "large": "https://randomuser.me/api/portraits/women/53.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+            },
+            "nat": "US"
+            },
+            
+            {
+                "gender": "female",
+                "name": {
+                "title": "Mrs",
+                "first": "Alexa",
+                "last": "Morgan"
+                },
+                "location": {
+                "street": {
+                "number": 9428,
+                "name": "Taylor St"
+                },
+                "city": "Miami",
+                "state": "Colorado",
+                "country": "United States",
+                "postcode": 16128,
+                "coordinates": {
+                "latitude": "83.4259",
+                "longitude": "113.3411"
+                },
+                "timezone": {
+                "offset": "+6:00",
+                "description": "Almaty, Dhaka, Colombo"
+                }
+                },
+                "email": "alexa.morgan@example.com",
+                "dob": {
+                "date": "1966-06-09T23:20:25.277Z",
+                "age": 54
+                },
+                "registered": {
+                "date": "2003-07-02T03:20:56.106Z",
+                "age": 17
+                },
+                "phone": "(437)-553-6636",
+                "cell": "(226)-832-3042",
+                "id": {
+                "name": "SSN",
+                "value": "686-16-8571"
+                },
+                "picture": {
+                "large": "https://randomuser.me/api/portraits/women/5.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+                },
+                "nat": "US"
+                },
+
+                {
+                    "gender": "male",
+                    "name": {
+                    "title": "Mr",
+                    "first": "Rogélio",
+                    "last": "das Neves"
+                    },
+                    "location": {
+                    "street": {
+                    "number": 9166,
+                    "name": "Rua Dezenove de Outubro"
+                    },
+                    "city": "Boa Vista",
+                    "state": "Rio Grande do Norte",
+                    "country": "Brazil",
+                    "postcode": 29296,
+                    "coordinates": {
+                    "latitude": "-70.5414",
+                    "longitude": "-14.6195"
+                    },
+                    "timezone": {
+                    "offset": "+8:00",
+                    "description": "Beijing, Perth, Singapore, Hong Kong"
+                    }
+                    },
+                    "email": "rogelio.dasneves@example.com",
+                    "dob": {
+                    "date": "1982-09-24T08:20:59.171Z",
+                    "age": 38
+                    },
+                    "registered": {
+                    "date": "2010-10-04T05:45:57.281Z",
+                    "age": 10
+                    },
+                    "phone": "(32) 4961-9660",
+                    "cell": "(02) 5190-2298",
+                    "id": {
+                    "name": "",
+                    "value": null
+                    },
+                    "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+                    },
+                    "nat": "BR"
+                    },
+                
+                    {
+                        "gender": "male",
+                        "name": {
+                        "title": "Mr",
+                        "first": "Luke",
+                        "last": "Hall"
+                        },
+                        "location": {
+                        "street": {
+                        "number": 9636,
+                        "name": "Main Street"
+                        },
+                        "city": "Christchurch",
+                        "state": "Northland",
+                        "country": "New Zealand",
+                        "postcode": 67657,
+                        "coordinates": {
+                        "latitude": "62.9828",
+                        "longitude": "-13.5849"
+                        },
+                        "timezone": {
+                        "offset": "+4:00",
+                        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                        }
+                        },
+                        "email": "luke.hall@example.com",
+                        "dob": {
+                        "date": "1984-09-17T11:31:13.874Z",
+                        "age": 36
+                        },
+                        "registered": {
+                        "date": "2019-02-01T04:51:37.136Z",
+                        "age": 1
+                        },
+                        "phone": "(590)-507-0702",
+                        "cell": "(508)-756-3898",
+                        "id": {
+                        "name": "",
+                        "value": null
+                        },
+                        "picture": {
+                        "large": "https://randomuser.me/api/portraits/men/50.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+                        },
+                        "nat": "NZ"
+                        },
+                        {
+                            "gender": "female",
+                            "name": {
+                            "title": "Ms",
+                            "first": "مرسانا",
+                            "last": "کامروا"
+                            },
+                            "location": {
+                            "street": {
+                            "number": 5152,
+                            "name": "میدان فلسطین"
+                            },
+                            "city": "بجنورد",
+                            "state": "زنجان",
+                            "country": "Iran",
+                            "postcode": 35319,
+                            "coordinates": {
+                            "latitude": "32.3139",
+                            "longitude": "112.7564"
+                            },
+                            "timezone": {
+                            "offset": "-12:00",
+                            "description": "Eniwetok, Kwajalein"
+                            }
+                            },
+                            "email": "mrsn.khmrw@example.com",
+                            "dob": {
+                            "date": "1956-06-11T23:58:20.063Z",
+                            "age": 64
+                            },
+                            "registered": {
+                            "date": "2016-05-17T03:02:45.250Z",
+                            "age": 4
+                            },
+                            "phone": "053-67320100",
+                            "cell": "0992-111-4618",
+                            "id": {
+                            "name": "",
+                            "value": null
+                            },
+                            "picture": {
+                            "large": "https://randomuser.me/api/portraits/women/50.jpg",
+                            "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+                            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+                            },
+                            "nat": "IR"
+                            },
+                            {
+                                "gender": "female",
+                                "name": {
+                                "title": "Miss",
+                                "first": "Judith",
+                                "last": "Shelton"
+                                },
+                                "location": {
+                                "street": {
+                                "number": 6191,
+                                "name": "Stevens Creek Blvd"
+                                },
+                                "city": "Perth",
+                                "state": "Tasmania",
+                                "country": "Australia",
+                                "postcode": 762,
+                                "coordinates": {
+                                "latitude": "-83.6364",
+                                "longitude": "64.3176"
+                                },
+                                "timezone": {
+                                "offset": "+9:30",
+                                "description": "Adelaide, Darwin"
+                                }
+                                },
+                                "email": "judith.shelton@example.com",
+                                "dob": {
+                                "date": "1970-06-28T06:56:25.068Z",
+                                "age": 50
+                                },
+                                "registered": {
+                                "date": "2008-07-06T08:27:02.645Z",
+                                "age": 12
+                                },
+                                "phone": "00-0004-9151",
+                                "cell": "0400-178-021",
+                                "id": {
+                                "name": "TFN",
+                                "value": "053362431"
+                                },
+                                "picture": {
+                                "large": "https://randomuser.me/api/portraits/women/32.jpg",
+                                "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+                                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+                                },
+                                "nat": "AU"
+                                }
+
+
+
+        
+
+]
