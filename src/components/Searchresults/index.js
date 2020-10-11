@@ -1,16 +1,26 @@
 import React, {Component} from "react";
-import users from "../../../src/user.json";
 import Userrow from "../Userrow";
+import Header from "../Header";
+import API from "../../utils/API";
+
 
 class SearchResults extends Component {
   state = {
-    users
+    users:[]
+    
   }
 
+  // mounts with 50 employees
+  componentDidMount() {
+  API.getRandomUsers()
+  .then(res => this.setState({ users : res.data.results }))
+  .catch(err => console.log(err))
+  }
 
  render() {
   return (
     <div>
+      <Header/>
     {this.state.users.map(user => (
       <Userrow
       picture = {user.picture.large}
