@@ -10,23 +10,20 @@ This app will filter employees (in this app, random 50 users) based on the searc
 - [Employee Directory App](#employee-directory-app)
   - [Installation Instructions](#installation-instructions)
   - [Usage Information](#usage-information)
-  - [Contribution](#contribution)
 - [Questions](#questions)
 
 ## Installation Instructions
 This app was built as a React app.  Create a react app by going to your terminal and typing `npx create react-app [app name]`.
 
-Once the app has been created, you may clone this repo, and copying over the src folder from the repo to to your new react app.
+Once the app has been created, you may clone this repo, and copy over the src folder from the repo to to your new react app.  Run app with `npm start`.
 
 
 
 ## Usage Information
 
-This 
+This app uses https://randomuser.me/ API to generate 51 random users (employees).  In the search bar type in a name, email, or country.  Upon hitting the submit button your list of employees will be filtered.  Refresh the page start with all your employees again.
 
-## Contribution
 
-PWA functionality by Channa Mik Carlson
 
 # Questions
 
