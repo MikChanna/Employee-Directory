@@ -2,30 +2,30 @@ import React from "react";
 
 function Userrow(props) {
 
-return <div className= "row">
-    <div className = "col">
+return <tr className= "row">
+    <td className = "col">
         <img alt = {props.firstName + props.lastName} src = {props.picture} />
-    </div>
-    <div className = "col">
+    </td>
+    <td className = "col">
         <p>{props.firstName } </p>
-    </div>
+    </td>
 
-    <div className = "col">
+    <td className = "col">
         <p>{props.lastName}</p>
-    </div>
+    </td>
 
-    <div className = "col">
+    <td className = "col">
         <p>{props.email}</p>
-    </div>
+    </td>
 
-    <div className = "col">
+    <td className = "col">
         <p>{props.birthday}</p>
-    </div>
+    </td>
 
-    <div className = "col">
+    <td className = "col">
         <p>{props.country}</p>
-    </div>
-</div>
+    </td>
+</tr> 
 
 }
 
