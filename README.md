@@ -23,6 +23,7 @@ Once the app has been created, you may clone this repo, and copy over the src fo
 
 This app uses https://randomuser.me/ API to generate 51 random users (employees).  In the search bar type in a name, email, or country.  Upon hitting the submit button your list of employees will be filtered.  Refresh the page start with all your employees again.
 
+<img width="1339" alt="Screen Shot 2020-10-12 at 2 50 14 PM" src="https://user-images.githubusercontent.com/61893686/95781229-5cb8a100-0c9b-11eb-9db9-5a438b1e50a9.png">
 
 
 # Questions
