@@ -27,7 +27,7 @@ class App extends Component {
   }
 
    handleSearchSubmit = event => {
-    event.preventDefault();
+   event.preventDefault();
     
     const filtered = this.state.users.filter(item =>
       item.name.first.toLowerCase().includes(this.state.search.toLowerCase()) 

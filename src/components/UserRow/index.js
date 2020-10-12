@@ -2,7 +2,9 @@ import React from "react";
 
 function Userrow(props) {
 
-return <tr className= "row">
+return <tr >
+
+
     <td className = "col">
         <img alt = {props.firstName + props.lastName} src = {props.picture} />
     </td>
