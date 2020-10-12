@@ -1,7 +1,7 @@
 import React from 'react';
 import Userrow from "../Userrow";
 import "./style.css";
-
+import moment from "moment";
 
 
 
@@ -14,40 +14,15 @@ function Table (props) {
        
         <th className="col">First Name</th>
       
-         <button class="arrowBtn">
-             ↑
-        </button>
-        <button class="arrowBtn">
-              ↓
-        </button>
+    
         <th className="col">Last Name</th>
-        <button class="arrowBtn">
-             ↑
-        </button>
-        <button class="arrowBtn">
-              ↓
-        </button>
+       
         <th className="col">Email</th>
-        <button class="arrowBtn">
-             ↑
-        </button>
-        <button class="arrowBtn">
-              ↓
-        </button>
+       
         <th className="col">Birthday</th>
-        <button class="arrowBtn">
-             ↑
-        </button>
-        <button class="arrowBtn">
-              ↓
-        </button>
+      
         <th className="col">Country</th>
-        <button class="arrowBtn">
-             ↑
-        </button>
-        <button class="arrowBtn">
-              ↓
-        </button>
+     
         
       </tr>
     </thead>
@@ -60,7 +35,7 @@ function Table (props) {
       lastName = {user.name.last}
       country = {user.location.country}
       email = {user.email}
-      birthday = {user.dob.date}
+      birthday = {moment(user.dob.date).format('MMMM Do')}
       />
     ))}
     </tbody>
